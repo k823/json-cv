@@ -335,19 +335,37 @@
       },
       {
         "skill": {
+          "name": "AWS",
+          "type": "technology"
+        }
+      },
+      {
+        "skill": {
+          "name": "PostgreSQL",
+          "type": "technology"
+        }
+      },
+      {
+        "skill": {
+          "name": "MongoDB",
+          "type": "technology"
+        }
+      },
+      {
+        "skill": {
           "name": "Google Cloud",
           "type": "technology"
         }
       },
       {
         "skill": {
-          "name": "Jenkins",
+          "name": "TypeScript",
           "type": "technology"
         }
       },
       {
         "skill": {
-          "name": "TypeScript",
+          "name": "Spring Boot",
           "type": "technology"
         }
       },
@@ -383,19 +401,25 @@
       },
       {
         "skill": {
-          "name": "Nest",
+          "name": "Github",
           "type": "technology"
         }
       },
       {
         "skill": {
-          "name": "Power BI",
+          "name": "Litelement",
           "type": "technology"
         }
       },
       {
         "skill": {
-          "name": "Atlassian",
+          "name": "Stencil.js",
+          "type": "technology"
+        }
+      },
+      {
+        "skill": {
+          "name": "PHPMyAdmin",
           "type": "technology"
         }
       }
@@ -795,28 +819,6 @@
         {
           "type": "linkedin",
           "URL": "https://www.linkedin.com/in/jomordom/"
-        }
-      ]
-    },
-    "preferences": {
-      "preferredCompetences": [
-        {
-          "name": "Azure",
-          "type": "technology"
-        },
-        {
-          "name": "AWS",
-          "type": "technology"
-        },
-        {
-          "name": "Google Cloud",
-          "type": "technology"
-        }
-      ],
-      "discardedCompetences": [
-        {
-          "name": "VS Code",
-          "type": "technology"
         }
       ]
     }
