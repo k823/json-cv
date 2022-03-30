@@ -598,6 +598,32 @@
         ]
       },
       {
+        "studyType": "certification",
+        "degreeAchieved": true,
+        "name": "Elements of AI ",
+        "startDate": "2020-02-01",
+        "finishDate": "2020-03-01",
+        "institution": {
+          "name": "University of Helsinki",
+          "description": "",
+          "URL": "https://certificates.mooc.fi/validate/heaiy083qmq",
+          "image": {
+            "alt": "university-of-helsinki-logo-vector.png",
+            "link": "https://media-asgard.s3.eu-west-1.amazonaws.com/22/03/30/9d609abc-c6b3-49cb-bcf6-5daae7e1df14_university-of-helsin.png"
+          }
+        },
+        "linkedCompetences": [
+          {
+            "name": "Python",
+            "type": "technology"
+          },
+          {
+            "name": "TensorFlow",
+            "type": "technology"
+          }
+        ]
+      },
+      {
         "studyType": "unaccredited",
         "degreeAchieved": true,
         "name": "Full Stack & Mobile Development Bootcamp",
