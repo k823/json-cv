@@ -39,7 +39,7 @@
     "jobs": [
       {
         "organization": {
-          "name": "Teamwork.com",
+          "name": "teamwork.com",
           "image": {
             "alt": "teamwork-primary-logo-white-on-slate-bg.svg",
             "link": "https://media-asgard.s3.eu-west-1.amazonaws.com/22/03/30/aaa4b9bf-bf07-4fb2-a5fc-f28945a7b8bb_teamwork-primary-log.svg"
@@ -52,7 +52,7 @@
             "startDate": "2022-03-01",
             "challenges": [
               {
-                "description": ""
+                "description": "Working closely together with Growth and Marketing teams, my aim is to make all the integrations to the internal tools platform and manage processes in an efficient, scalable and fully documented way. "
               }
             ],
             "competences": [
