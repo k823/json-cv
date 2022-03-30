@@ -480,6 +480,36 @@
         ]
       },
       {
+        "studyType": "certification",
+        "degreeAchieved": true,
+        "name": "Responsive Web Design",
+        "startDate": "2021-03-01",
+        "finishDate": "2021-03-01",
+        "institution": {
+          "name": "FreeCodeCamp",
+          "description": "",
+          "URL": "https://www.freecodecamp.org/certification/k823/responsive-web-design",
+          "image": {
+            "alt": "freecodecamp.png",
+            "link": "https://media-asgard.s3.eu-west-1.amazonaws.com/22/03/30/42f42263-65ff-4704-8caa-3d92c4f0bc05_freecodecamp.png"
+          }
+        },
+        "linkedCompetences": [
+          {
+            "name": "HTML",
+            "type": "technology"
+          },
+          {
+            "name": "CSS",
+            "type": "technology"
+          },
+          {
+            "name": "JavaScript",
+            "type": "technology"
+          }
+        ]
+      },
+      {
         "studyType": "unaccredited",
         "degreeAchieved": true,
         "name": "Full Stack & Mobile Development Bootcamp",
