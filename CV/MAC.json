@@ -79,6 +79,90 @@
             ]
           }
         ]
+      },
+      {
+        "organization": {
+          "name": "Santander Global Tech & Operations",
+          "image": {
+            "alt": "santander-1635327050698.jpeg",
+            "link": "https://media-asgard.s3.eu-west-1.amazonaws.com/22/03/30/95a200fd-24a9-46d7-a689-78ae5cffdffb_santander-1635327050.jpeg"
+          },
+          "URL": "https://santandergto.com/"
+        },
+        "roles": [
+          {
+            "name": "Software Delivery Analyst",
+            "startDate": "2020-09-01",
+            "finishDate": "2022-03-01",
+            "challenges": [
+              {
+                "description": "Discover, define, develop and deploy business oriented applications in an integrated platform for Santander corporate banking venues.   "
+              }
+            ],
+            "competences": [
+              {
+                "name": "Angular2+",
+                "type": "technology"
+              },
+              {
+                "name": "Nest",
+                "type": "technology"
+              },
+              {
+                "name": "TypeScript",
+                "type": "technology"
+              },
+              {
+                "name": "OpenShift",
+                "type": "technology"
+              },
+              {
+                "name": "Azure",
+                "type": "technology"
+              },
+              {
+                "name": "Jenkins",
+                "type": "technology"
+              },
+              {
+                "name": "Git",
+                "type": "technology"
+              },
+              {
+                "name": "Github",
+                "type": "technology"
+              },
+              {
+                "name": "Stencil.js",
+                "type": "technology"
+              },
+              {
+                "name": "Storybook",
+                "type": "technology"
+              },
+              {
+                "name": "Vue",
+                "type": "technology"
+              },
+              {
+                "name": "PHP",
+                "type": "technology"
+              },
+              {
+                "name": "Power BI",
+                "type": "technology"
+              },
+              {
+                "name": "NodeJS",
+                "type": "technology"
+              },
+              {
+                "name": "Jira",
+                "type": "technology"
+              }
+            ]
+          }
+        ]
       }
     ]
   },
