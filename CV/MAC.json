@@ -566,13 +566,51 @@
       {
         "studyType": "unaccredited",
         "degreeAchieved": true,
+        "name": "PDPM+ ",
+        "startDate": "2022-03-01",
+        "finishDate": "2022-07-01",
+        "institution": {
+          "name": "The Valley Business School",
+          "description": "Program in Digital Product Management ",
+          "URL": "https://thevalley.es/",
+          "image": {
+            "alt": "thevalley - logo.png",
+            "link": "https://media-asgard.s3.eu-west-1.amazonaws.com/22/03/30/c6a85f1e-89af-4bc2-bf3b-fd7ccbd6c442_thevalley---logo.png"
+          }
+        },
+        "linkedCompetences": [
+          {
+            "name": "Jira",
+            "type": "technology"
+          },
+          {
+            "name": "Figma",
+            "type": "technology"
+          },
+          {
+            "name": "Invision",
+            "type": "technology"
+          },
+          {
+            "name": "Google Analytics",
+            "type": "technology"
+          },
+          {
+            "name": "Power BI",
+            "type": "technology"
+          }
+        ]
+      },
+      {
+        "studyType": "unaccredited",
+        "degreeAchieved": true,
         "name": "Enterprise Microservices Java Development",
         "startDate": "2020-05-01",
         "finishDate": "2020-09-01",
         "institution": {
           "name": "Ironhack",
           "description": "",
-          "URL": "https://www.ironhack.com/",
+          "URL": "https://www.credential.net/32056dfc-477b-4fc5-a03a-9f2c863f7ac7#gs.v72y1f",
           "image": {
             "alt": "logo ironhack_20170522100051_20170626142433.png",
             "link": "https://media-asgard.s3.eu-west-1.amazonaws.com/22/03/30/a48da532-9129-4a14-85bc-9ca1ddeaecb8_logo-ironhack_201705.png"
@@ -609,44 +647,6 @@
           },
           {
             "name": "UML",
-            "type": "technology"
-          }
-        ]
-      },
-      {
-        "studyType": "unaccredited",
-        "degreeAchieved": true,
-        "name": "PDPM+ ",
-        "startDate": "2022-03-01",
-        "finishDate": "2022-07-01",
-        "institution": {
-          "name": "The Valley Business School",
-          "description": "Program in Digital Product Management ",
-          "URL": "https://thevalley.es/",
-          "image": {
-            "alt": "thevalley - logo.png",
-            "link": "https://media-asgard.s3.eu-west-1.amazonaws.com/22/03/30/c6a85f1e-89af-4bc2-bf3b-fd7ccbd6c442_thevalley---logo.png"
-          }
-        },
-        "linkedCompetences": [
-          {
-            "name": "Jira",
-            "type": "technology"
-          },
-          {
-            "name": "Figma",
-            "type": "technology"
-          },
-          {
-            "name": "Invision",
-            "type": "technology"
-          },
-          {
-            "name": "Google Analytics",
-            "type": "technology"
-          },
-          {
-            "name": "Power BI",
             "type": "technology"
           }
         ]
