@@ -548,6 +548,22 @@
         ]
       },
       {
+        "studyType": "certification",
+        "degreeAchieved": true,
+        "name": "Los fundamentos del marco Agile ",
+        "startDate": "2020-11-01",
+        "finishDate": "2020-11-01",
+        "institution": {
+          "name": "Santander",
+          "description": "",
+          "URL": "https://www.credly.com/badges/0bbee57a-fe2e-462b-ac4e-d826d7fbddcf?source=linked_in_profile",
+          "image": {
+            "alt": "santander-1635327050698.jpeg",
+            "link": "https://media-asgard.s3.eu-west-1.amazonaws.com/22/03/30/056c826a-d502-469b-bf4c-f4c91bbfa6bf_santander-1635327050.jpeg"
+          }
+        }
+      },
+      {
         "studyType": "unaccredited",
         "degreeAchieved": true,
         "name": "Full Stack & Mobile Development Bootcamp",
