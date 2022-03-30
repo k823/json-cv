@@ -230,6 +230,24 @@
             "startDate": "2019-09-01"
           }
         ]
+      },
+      {
+        "details": {
+          "name": "Comeback Studios",
+          "description": "The first mobile recording studio with Dolby Atmos quality.",
+          "URL": "https://comebackstudios.es/",
+          "image": {
+            "alt": "new-small-comeback-full-1.png",
+            "link": "https://media-asgard.s3.eu-west-1.amazonaws.com/22/03/30/4dda63a2-1c95-483f-b32a-27be99ebc0ef_new-small-comeback-f.png"
+          }
+        },
+        "type": "sideProject",
+        "roles": [
+          {
+            "name": "Developer",
+            "startDate": "2021-01-01"
+          }
+        ]
       }
     ]
   },
