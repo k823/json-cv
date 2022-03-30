@@ -454,6 +454,56 @@
             "type": "technology"
           }
         ]
+      },
+      {
+        "studyType": "unaccredited",
+        "degreeAchieved": true,
+        "name": "Enterprise Microservices Java Development",
+        "startDate": "2020-05-01",
+        "finishDate": "2020-09-01",
+        "institution": {
+          "name": "Ironhack",
+          "description": "",
+          "URL": "https://www.ironhack.com/",
+          "image": {
+            "alt": "png-transparent-ironhack-web-development-job-startup-company-design-blue-user-interface-design-text-thumbnail.png",
+            "link": "https://media-asgard.s3.eu-west-1.amazonaws.com/22/03/30/c201f95b-3e10-452a-974a-c1e30cc1a095_png-transparent-iron.png"
+          }
+        },
+        "linkedCompetences": [
+          {
+            "name": "JAVA",
+            "type": "technology"
+          },
+          {
+            "name": "Spring Boot",
+            "type": "technology"
+          },
+          {
+            "name": "Angular2+",
+            "type": "technology"
+          },
+          {
+            "name": "SQL",
+            "type": "technology"
+          },
+          {
+            "name": "MongoDB",
+            "type": "technology"
+          },
+          {
+            "name": "Heroku",
+            "type": "technology"
+          },
+          {
+            "name": "AWS",
+            "type": "technology"
+          },
+          {
+            "name": "UML",
+            "type": "technology"
+          }
+        ]
       }
     ]
   },
