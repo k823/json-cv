@@ -624,6 +624,28 @@
         ]
       },
       {
+        "studyType": "certification",
+        "degreeAchieved": true,
+        "name": "Getting started with AWS Machine Learning ",
+        "startDate": "2020-03-01",
+        "finishDate": "2020-03-01",
+        "institution": {
+          "name": "AWS ",
+          "description": "",
+          "URL": "https://certificates.mooc.fi/validate/heaiy083qmq",
+          "image": {
+            "alt": "aws.png",
+            "link": "https://media-asgard.s3.eu-west-1.amazonaws.com/22/03/30/f7ab31c6-63b9-4832-92de-9bfd89c0a6fa_aws.png"
+          }
+        },
+        "linkedCompetences": [
+          {
+            "name": "AWS",
+            "type": "technology"
+          }
+        ]
+      },
+      {
         "studyType": "unaccredited",
         "degreeAchieved": true,
         "name": "Full Stack & Mobile Development Bootcamp",
