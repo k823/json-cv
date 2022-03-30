@@ -399,6 +399,62 @@
           "type": "technology"
         }
       }
+    ],
+    "studies": [
+      {
+        "studyType": "unaccredited",
+        "degreeAchieved": true,
+        "name": "Full Stack & Mobile Development Bootcamp",
+        "startDate": "2019-05-01",
+        "finishDate": "2019-09-01",
+        "institution": {
+          "name": "Codenotch ",
+          "description": "",
+          "URL": "https://www.codenotch.com/",
+          "image": {
+            "alt": "codenotch-download.png",
+            "link": "https://media-asgard.s3.eu-west-1.amazonaws.com/22/03/30/3c053699-fab9-4370-bb32-8639a405a249_codenotch-download.png"
+          }
+        },
+        "linkedCompetences": [
+          {
+            "name": "Angular2+",
+            "type": "technology"
+          },
+          {
+            "name": "TypeScript",
+            "type": "technology"
+          },
+          {
+            "name": "NoSQL",
+            "type": "technology"
+          },
+          {
+            "name": "SQL",
+            "type": "technology"
+          },
+          {
+            "name": "PHPMyAdmin",
+            "type": "technology"
+          },
+          {
+            "name": "MongoDB",
+            "type": "technology"
+          },
+          {
+            "name": "MySQL",
+            "type": "technology"
+          },
+          {
+            "name": "NodeJS",
+            "type": "technology"
+          },
+          {
+            "name": "JavaScript",
+            "type": "technology"
+          }
+        ]
+      }
     ]
   },
   "careerPreferences": {
