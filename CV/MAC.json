@@ -35,6 +35,53 @@
       }
     ]
   },
+  "experience": {
+    "jobs": [
+      {
+        "organization": {
+          "name": "Teamwork.com",
+          "image": {
+            "alt": "teamwork-primary-logo-white-on-slate-bg.svg",
+            "link": "https://media-asgard.s3.eu-west-1.amazonaws.com/22/03/30/aaa4b9bf-bf07-4fb2-a5fc-f28945a7b8bb_teamwork-primary-log.svg"
+          },
+          "URL": "https://www.teamwork.com/"
+        },
+        "roles": [
+          {
+            "name": "Backend Developer (Marketing RevOps)",
+            "startDate": "2022-03-01",
+            "challenges": [
+              {
+                "description": ""
+              }
+            ],
+            "competences": [
+              {
+                "name": "Adobe Analytics",
+                "type": "technology"
+              },
+              {
+                "name": "Google Analytics",
+                "type": "technology"
+              },
+              {
+                "name": "ColdFusion",
+                "type": "technology"
+              },
+              {
+                "name": "JavaScript",
+                "type": "technology"
+              },
+              {
+                "name": "TypeScript",
+                "type": "technology"
+              }
+            ]
+          }
+        ]
+      }
+    ]
+  },
   "knowledge": {
     "languages": [
       {
