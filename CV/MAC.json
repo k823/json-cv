@@ -504,6 +504,44 @@
             "type": "technology"
           }
         ]
+      },
+      {
+        "studyType": "unaccredited",
+        "degreeAchieved": true,
+        "name": "PDPM+ ",
+        "startDate": "2022-03-01",
+        "finishDate": "2022-07-01",
+        "institution": {
+          "name": "The Valley Business School",
+          "description": "Program in Digital Product Management ",
+          "URL": "https://thevalley.es/",
+          "image": {
+            "alt": "thevalley - logo.png",
+            "link": "https://media-asgard.s3.eu-west-1.amazonaws.com/22/03/30/c6a85f1e-89af-4bc2-bf3b-fd7ccbd6c442_thevalley---logo.png"
+          }
+        },
+        "linkedCompetences": [
+          {
+            "name": "Jira",
+            "type": "technology"
+          },
+          {
+            "name": "Figma",
+            "type": "technology"
+          },
+          {
+            "name": "Invision",
+            "type": "technology"
+          },
+          {
+            "name": "Google Analytics",
+            "type": "technology"
+          },
+          {
+            "name": "Power BI",
+            "type": "technology"
+          }
+        ]
       }
     ]
   },
