@@ -404,6 +404,28 @@
       {
         "studyType": "certification",
         "degreeAchieved": true,
+        "name": "Python",
+        "startDate": "2021-02-01",
+        "finishDate": "2021-02-01",
+        "institution": {
+          "name": "Kaggle",
+          "description": "",
+          "URL": "https://www.kaggle.com/learn/certification/jomordom/python",
+          "image": {
+            "alt": "kaggle.png",
+            "link": "https://media-asgard.s3.eu-west-1.amazonaws.com/22/03/30/f1cbed1e-cfc0-4430-a451-b89de1317172_kaggle.png"
+          }
+        },
+        "linkedCompetences": [
+          {
+            "name": "Python",
+            "type": "technology"
+          }
+        ]
+      },
+      {
+        "studyType": "certification",
+        "degreeAchieved": true,
         "name": "Blockchain Essentials",
         "startDate": "2021-06-01",
         "finishDate": "2021-06-01",
