@@ -249,6 +249,30 @@
           }
         ]
       }
+    ],
+    "publicArtifacts": [
+      {
+        "details": {
+          "name": "Hackaton winner - Demium Startup Incubator",
+          "description": "",
+          "URL": "https://demium.com/",
+          "image": {
+            "alt": "demium-1642673834121.jpeg",
+            "link": "https://media-asgard.s3.eu-west-1.amazonaws.com/22/03/30/691322a8-5066-4f51-bd07-16076713a172_demium-1642673834121.jpeg"
+          }
+        },
+        "type": "achievement",
+        "publishingDate": "2019-02-01",
+        "relatedCompetences": [
+          {
+            "name": "Adobe Creative Suite",
+            "type": "technology"
+          }
+        ],
+        "tags": [
+          "Startup"
+        ]
+      }
     ]
   },
   "knowledge": {
