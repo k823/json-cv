@@ -163,6 +163,58 @@
             ]
           }
         ]
+      },
+      {
+        "organization": {
+          "name": "Kairos Digital Solutions",
+          "image": {
+            "alt": "kairos-download.jpeg",
+            "link": "https://media-asgard.s3.eu-west-1.amazonaws.com/22/03/30/9b7d4d79-ac2e-44a3-a098-fe2863cbeb9a_kairos-download.jpeg"
+          },
+          "URL": "https://www.kairosds.com/"
+        },
+        "roles": [
+          {
+            "name": "Backend Developer",
+            "startDate": "2019-11-01",
+            "finishDate": "2020-06-01",
+            "challenges": [
+              {
+                "description": "Full Stack developer"
+              }
+            ],
+            "competences": [
+              {
+                "name": "Angular2+",
+                "type": "technology"
+              },
+              {
+                "name": "Vue",
+                "type": "technology"
+              },
+              {
+                "name": "NodeJS",
+                "type": "technology"
+              },
+              {
+                "name": "Nest",
+                "type": "technology"
+              },
+              {
+                "name": "PostgreSQL",
+                "type": "technology"
+              },
+              {
+                "name": "MongoDB",
+                "type": "technology"
+              },
+              {
+                "name": "Litelement",
+                "type": "technology"
+              }
+            ]
+          }
+        ]
       }
     ]
   },
