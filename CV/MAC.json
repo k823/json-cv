@@ -216,6 +216,21 @@
           }
         ]
       }
+    ],
+    "projects": [
+      {
+        "details": {
+          "name": "Altent",
+          "description": "Online education resources aggregator"
+        },
+        "type": "sideProject",
+        "roles": [
+          {
+            "name": "Developer",
+            "startDate": "2019-09-01"
+          }
+        ]
+      }
     ]
   },
   "knowledge": {
