@@ -402,6 +402,36 @@
     ],
     "studies": [
       {
+        "studyType": "certification",
+        "degreeAchieved": true,
+        "name": "Blockchain Essentials",
+        "startDate": "2021-06-01",
+        "finishDate": "2021-06-01",
+        "institution": {
+          "name": "IBM",
+          "description": "",
+          "URL": "https://courses.santanderdojo.skillsnetwork.site/certificates/6e12e3b65bb04c58aedded7e4eaba00d",
+          "image": {
+            "alt": "ibm.png",
+            "link": "https://media-asgard.s3.eu-west-1.amazonaws.com/22/03/30/15a18fce-daf5-47b6-be22-b8f69c399368_ibm.png"
+          }
+        },
+        "linkedCompetences": [
+          {
+            "name": "IBM Cloud",
+            "type": "technology"
+          },
+          {
+            "name": "IBM Mainframe",
+            "type": "technology"
+          },
+          {
+            "name": "IBM Watson",
+            "type": "technology"
+          }
+        ]
+      },
+      {
         "studyType": "unaccredited",
         "degreeAchieved": true,
         "name": "Full Stack & Mobile Development Bootcamp",
