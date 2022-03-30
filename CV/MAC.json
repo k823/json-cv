@@ -564,6 +564,40 @@
         }
       },
       {
+        "studyType": "certification",
+        "degreeAchieved": true,
+        "name": "Building Conversational Experiences with DialogFlow",
+        "startDate": "2020-03-01",
+        "finishDate": "2020-03-01",
+        "institution": {
+          "name": "Google Cloud",
+          "description": "",
+          "URL": "https://www.coursera.org/account/accomplishments/verify/AQDZL4DUL8ND",
+          "image": {
+            "alt": "gcloiud.png",
+            "link": "https://media-asgard.s3.eu-west-1.amazonaws.com/22/03/30/3943e41c-76e0-4ede-b56a-be4e6bcc0669_gcloiud.png"
+          }
+        },
+        "linkedCompetences": [
+          {
+            "name": "DialogFlow",
+            "type": "technology"
+          },
+          {
+            "name": "Google Cloud",
+            "type": "technology"
+          },
+          {
+            "name": "JavaScript",
+            "type": "technology"
+          },
+          {
+            "name": "AJAX",
+            "type": "technology"
+          }
+        ]
+      },
+      {
         "studyType": "unaccredited",
         "degreeAchieved": true,
         "name": "Full Stack & Mobile Development Bootcamp",
