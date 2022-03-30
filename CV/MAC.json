@@ -458,6 +458,28 @@
         ]
       },
       {
+        "studyType": "certification",
+        "degreeAchieved": true,
+        "name": "JavaScript Algorithms and Data Structures",
+        "startDate": "2021-03-01",
+        "finishDate": "2021-03-01",
+        "institution": {
+          "name": "FreeCodeCamp",
+          "description": "",
+          "URL": "https://www.freecodecamp.org/certification/k823/javascript-algorithms-and-data-structures",
+          "image": {
+            "alt": "freecodecamp.png",
+            "link": "https://media-asgard.s3.eu-west-1.amazonaws.com/22/03/30/91c009a9-314c-49f7-a701-5ba401dd41bc_freecodecamp.png"
+          }
+        },
+        "linkedCompetences": [
+          {
+            "name": "JavaScript",
+            "type": "technology"
+          }
+        ]
+      },
+      {
         "studyType": "unaccredited",
         "degreeAchieved": true,
         "name": "Full Stack & Mobile Development Bootcamp",
