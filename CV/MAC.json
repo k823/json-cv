@@ -432,6 +432,32 @@
         ]
       },
       {
+        "studyType": "certification",
+        "degreeAchieved": true,
+        "name": "Intro to machine learning ",
+        "startDate": "2021-04-01",
+        "finishDate": "2021-04-01",
+        "institution": {
+          "name": "Kaggle",
+          "description": "",
+          "URL": "https://www.kaggle.com/learn/certification/jomordom/intro-to-machine-learning",
+          "image": {
+            "alt": "kaggle.svg",
+            "link": "https://media-asgard.s3.eu-west-1.amazonaws.com/22/03/30/b1fe143c-56d0-445e-a496-a3f8cfb0540e_kaggle.svg"
+          }
+        },
+        "linkedCompetences": [
+          {
+            "name": "Python",
+            "type": "technology"
+          },
+          {
+            "name": "Google Cloud",
+            "type": "technology"
+          }
+        ]
+      },
+      {
         "studyType": "unaccredited",
         "degreeAchieved": true,
         "name": "Full Stack & Mobile Development Bootcamp",
