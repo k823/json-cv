@@ -456,6 +456,22 @@
       {
         "studyType": "certification",
         "degreeAchieved": true,
+        "name": "Enterprise Design Thinking - Team Essentials for AI",
+        "startDate": "2020-11-01",
+        "finishDate": "2020-11-01",
+        "institution": {
+          "name": "IBM",
+          "description": "",
+          "URL": "https://www.credly.com/badges/4579d29f-9a91-452c-a657-bcba181ed6b3?source=linked_in_profile",
+          "image": {
+            "alt": "ibm.png",
+            "link": "https://media-asgard.s3.eu-west-1.amazonaws.com/22/03/30/e61c5d31-c3d5-4be6-9168-ff263252b534_ibm.png"
+          }
+        }
+      },
+      {
+        "studyType": "certification",
+        "degreeAchieved": true,
         "name": "Intro to machine learning ",
         "startDate": "2021-04-01",
         "finishDate": "2021-04-01",
