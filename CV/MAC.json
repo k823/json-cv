@@ -1,7 +1,7 @@
 {
   "$schema": "https://raw.githubusercontent.com/getmanfred/mac/v0.3/schema/schema.json",
   "settings": {
-    "language": "EN",
+    "language": "ES",
     "MACVersion": "0.3"
   },
   "aboutMe": {
@@ -10,22 +10,21 @@
       "surnames": "Morales Domínguez",
       "title": "Tech | Product | Business",
       "description": "Human centric focused product creator. ",
-      "avatar": {
-        "alt": "jorgeMoralesProfile.jpeg",
-        "link": "https://media-asgard.s3.eu-west-1.amazonaws.com/22/03/30/fd4c7bc1-424a-4b8f-8a85-c8bb3e26586e_jorgemoralesprofile.jpeg"
-      },
       "location": {
-        "notes": "Alicante"
+        "country": "España",
+        "region": "Comunidad Valenciana",
+        "municipality": "Alicante (Alacant)",
+        "notes": "Autocompleted using Google Maps API"
       }
     },
     "relevantLinks": [
       {
-        "type": "linkedin",
-        "URL": "https://www.linkedin.com/in/jomordom/"
-      },
-      {
         "type": "github",
         "URL": "https://github.com/k823"
+      },
+      {
+        "type": "linkedin",
+        "URL": "https://www.linkedin.com/in/jomordom/"
       }
     ],
     "interestingFacts": [
@@ -61,11 +60,11 @@
                 "type": "technology"
               },
               {
-                "name": "Google Analytics",
+                "name": "ColdFusion",
                 "type": "technology"
               },
               {
-                "name": "ColdFusion",
+                "name": "Google Analytics",
                 "type": "technology"
               },
               {
@@ -105,23 +104,7 @@
                 "type": "technology"
               },
               {
-                "name": "Nest",
-                "type": "technology"
-              },
-              {
-                "name": "TypeScript",
-                "type": "technology"
-              },
-              {
-                "name": "OpenShift",
-                "type": "technology"
-              },
-              {
                 "name": "Azure",
-                "type": "technology"
-              },
-              {
-                "name": "Jenkins",
                 "type": "technology"
               },
               {
@@ -133,6 +116,34 @@
                 "type": "technology"
               },
               {
+                "name": "Jenkins",
+                "type": "technology"
+              },
+              {
+                "name": "Jira",
+                "type": "technology"
+              },
+              {
+                "name": "Microsoft Power BI",
+                "type": "technology"
+              },
+              {
+                "name": "Nest",
+                "type": "technology"
+              },
+              {
+                "name": "NodeJS",
+                "type": "technology"
+              },
+              {
+                "name": "OpenShift",
+                "type": "technology"
+              },
+              {
+                "name": "PHP",
+                "type": "technology"
+              },
+              {
                 "name": "Stencil.js",
                 "type": "technology"
               },
@@ -141,23 +152,11 @@
                 "type": "technology"
               },
               {
+                "name": "TypeScript",
+                "type": "technology"
+              },
+              {
                 "name": "Vue",
-                "type": "technology"
-              },
-              {
-                "name": "PHP",
-                "type": "technology"
-              },
-              {
-                "name": "Power BI",
-                "type": "technology"
-              },
-              {
-                "name": "NodeJS",
-                "type": "technology"
-              },
-              {
-                "name": "Jira",
                 "type": "technology"
               }
             ]
@@ -189,19 +188,7 @@
                 "type": "technology"
               },
               {
-                "name": "Vue",
-                "type": "technology"
-              },
-              {
-                "name": "NodeJS",
-                "type": "technology"
-              },
-              {
-                "name": "Nest",
-                "type": "technology"
-              },
-              {
-                "name": "PostgreSQL",
+                "name": "LitElement",
                 "type": "technology"
               },
               {
@@ -209,7 +196,19 @@
                 "type": "technology"
               },
               {
-                "name": "Litelement",
+                "name": "Nest",
+                "type": "technology"
+              },
+              {
+                "name": "NodeJS",
+                "type": "technology"
+              },
+              {
+                "name": "PostgreSQL",
+                "type": "technology"
+              },
+              {
+                "name": "Vue",
                 "type": "technology"
               }
             ]
@@ -218,19 +217,6 @@
       }
     ],
     "projects": [
-      {
-        "details": {
-          "name": "Altent",
-          "description": "Online education resources aggregator"
-        },
-        "type": "sideProject",
-        "roles": [
-          {
-            "name": "Developer",
-            "startDate": "2019-09-01"
-          }
-        ]
-      },
       {
         "details": {
           "name": "Comeback Studios",
@@ -248,13 +234,25 @@
             "startDate": "2021-01-01"
           }
         ]
+      },
+      {
+        "details": {
+          "name": "Altent",
+          "description": "Online education resources aggregator"
+        },
+        "type": "sideProject",
+        "roles": [
+          {
+            "name": "Developer",
+            "startDate": "2019-09-01"
+          }
+        ]
       }
     ],
     "publicArtifacts": [
       {
         "details": {
           "name": "Hackaton winner - Demium Startup Incubator",
-          "description": "",
           "URL": "https://demium.com/",
           "image": {
             "alt": "demium-1642673834121.jpeg",
@@ -278,34 +276,26 @@
   "knowledge": {
     "languages": [
       {
-        "name": "Spanish"
+        "name": "English",
+        "level": "Limited working proficiency"
       },
       {
-        "name": "English"
+        "name": "Italian",
+        "level": "Limited working proficiency"
       },
       {
-        "name": "Portuguese"
+        "name": "Portuguese",
+        "level": "Limited working proficiency"
       },
       {
-        "name": "Italian"
+        "name": "Spanish",
+        "level": "Limited working proficiency"
       }
     ],
     "hardSkills": [
       {
         "skill": {
-          "name": "Python",
-          "type": "technology"
-        }
-      },
-      {
-        "skill": {
-          "name": "PHP",
-          "type": "technology"
-        }
-      },
-      {
-        "skill": {
-          "name": "JAVA",
+          "name": "NodeJS",
           "type": "technology"
         }
       },
@@ -317,7 +307,25 @@
       },
       {
         "skill": {
-          "name": "NodeJS",
+          "name": "TypeScript",
+          "type": "technology"
+        }
+      },
+      {
+        "skill": {
+          "name": "JAVA",
+          "type": "technology"
+        }
+      },
+      {
+        "skill": {
+          "name": "SQL",
+          "type": "technology"
+        }
+      },
+      {
+        "skill": {
+          "name": "NoSQL",
           "type": "technology"
         }
       },
@@ -335,43 +343,7 @@
       },
       {
         "skill": {
-          "name": "AWS",
-          "type": "technology"
-        }
-      },
-      {
-        "skill": {
-          "name": "PostgreSQL",
-          "type": "technology"
-        }
-      },
-      {
-        "skill": {
-          "name": "MongoDB",
-          "type": "technology"
-        }
-      },
-      {
-        "skill": {
-          "name": "Google Cloud",
-          "type": "technology"
-        }
-      },
-      {
-        "skill": {
-          "name": "TypeScript",
-          "type": "technology"
-        }
-      },
-      {
-        "skill": {
-          "name": "Spring Boot",
-          "type": "technology"
-        }
-      },
-      {
-        "skill": {
-          "name": "SQL",
+          "name": "OpenShift",
           "type": "technology"
         }
       },
@@ -383,19 +355,43 @@
       },
       {
         "skill": {
+          "name": "Python",
+          "type": "technology"
+        }
+      },
+      {
+        "skill": {
           "name": "Git",
           "type": "technology"
         }
       },
       {
         "skill": {
-          "name": "OpenShift",
+          "name": "PHP",
           "type": "technology"
         }
       },
       {
         "skill": {
-          "name": "NoSQL",
+          "name": "Google Cloud",
+          "type": "technology"
+        }
+      },
+      {
+        "skill": {
+          "name": "AWS",
+          "type": "technology"
+        }
+      },
+      {
+        "skill": {
+          "name": "MongoDB",
+          "type": "technology"
+        }
+      },
+      {
+        "skill": {
+          "name": "PostgreSQL",
           "type": "technology"
         }
       },
@@ -407,7 +403,13 @@
       },
       {
         "skill": {
-          "name": "Litelement",
+          "name": "PHPMyAdmin",
+          "type": "technology"
+        }
+      },
+      {
+        "skill": {
+          "name": "LitElement",
           "type": "technology"
         }
       },
@@ -419,30 +421,46 @@
       },
       {
         "skill": {
-          "name": "PHPMyAdmin",
+          "name": "Spring Boot",
           "type": "technology"
         }
       }
     ],
     "studies": [
       {
-        "studyType": "certification",
+        "studyType": "unaccredited",
         "degreeAchieved": true,
-        "name": "Python",
-        "startDate": "2021-02-01",
-        "finishDate": "2021-02-01",
+        "name": "PDPM+ ",
+        "startDate": "2022-03-01",
+        "finishDate": "2022-07-01",
         "institution": {
-          "name": "Kaggle",
-          "description": "",
-          "URL": "https://www.kaggle.com/learn/certification/jomordom/python",
+          "name": "The Valley Business School",
+          "description": "Program in Digital Product Management ",
+          "URL": "https://thevalley.es/",
           "image": {
-            "alt": "kaggle.png",
-            "link": "https://media-asgard.s3.eu-west-1.amazonaws.com/22/03/30/f1cbed1e-cfc0-4430-a451-b89de1317172_kaggle.png"
+            "alt": "thevalley - logo.png",
+            "link": "https://media-asgard.s3.eu-west-1.amazonaws.com/22/03/30/c6a85f1e-89af-4bc2-bf3b-fd7ccbd6c442_thevalley---logo.png"
           }
         },
         "linkedCompetences": [
           {
-            "name": "Python",
+            "name": "Figma",
+            "type": "technology"
+          },
+          {
+            "name": "Google Analytics",
+            "type": "technology"
+          },
+          {
+            "name": "Invision",
+            "type": "technology"
+          },
+          {
+            "name": "Jira",
+            "type": "technology"
+          },
+          {
+            "name": "Microsoft Power BI",
             "type": "technology"
           }
         ]
@@ -455,7 +473,6 @@
         "finishDate": "2021-06-01",
         "institution": {
           "name": "IBM",
-          "description": "",
           "URL": "https://courses.santanderdojo.skillsnetwork.site/certificates/6e12e3b65bb04c58aedded7e4eaba00d",
           "image": {
             "alt": "ibm.png",
@@ -480,28 +497,11 @@
       {
         "studyType": "certification",
         "degreeAchieved": true,
-        "name": "Enterprise Design Thinking - Team Essentials for AI",
-        "startDate": "2020-11-01",
-        "finishDate": "2020-11-01",
-        "institution": {
-          "name": "IBM",
-          "description": "",
-          "URL": "https://www.credly.com/badges/4579d29f-9a91-452c-a657-bcba181ed6b3?source=linked_in_profile",
-          "image": {
-            "alt": "ibm.png",
-            "link": "https://media-asgard.s3.eu-west-1.amazonaws.com/22/03/30/e61c5d31-c3d5-4be6-9168-ff263252b534_ibm.png"
-          }
-        }
-      },
-      {
-        "studyType": "certification",
-        "degreeAchieved": true,
         "name": "Intro to machine learning ",
         "startDate": "2021-04-01",
         "finishDate": "2021-04-01",
         "institution": {
           "name": "Kaggle",
-          "description": "",
           "URL": "https://www.kaggle.com/learn/certification/jomordom/intro-to-machine-learning",
           "image": {
             "alt": "kaggle.png",
@@ -510,11 +510,11 @@
         },
         "linkedCompetences": [
           {
-            "name": "Python",
+            "name": "Google Cloud",
             "type": "technology"
           },
           {
-            "name": "Google Cloud",
+            "name": "Python",
             "type": "technology"
           }
         ]
@@ -527,7 +527,6 @@
         "finishDate": "2021-03-01",
         "institution": {
           "name": "FreeCodeCamp",
-          "description": "",
           "URL": "https://www.freecodecamp.org/certification/k823/javascript-algorithms-and-data-structures",
           "image": {
             "alt": "freecodecamp.png",
@@ -549,7 +548,6 @@
         "finishDate": "2021-03-01",
         "institution": {
           "name": "FreeCodeCamp",
-          "description": "",
           "URL": "https://www.freecodecamp.org/certification/k823/responsive-web-design",
           "image": {
             "alt": "freecodecamp.png",
@@ -558,11 +556,11 @@
         },
         "linkedCompetences": [
           {
-            "name": "HTML",
+            "name": "CSS",
             "type": "technology"
           },
           {
-            "name": "CSS",
+            "name": "HTML",
             "type": "technology"
           },
           {
@@ -574,18 +572,102 @@
       {
         "studyType": "certification",
         "degreeAchieved": true,
+        "name": "Python",
+        "startDate": "2021-02-01",
+        "finishDate": "2021-02-01",
+        "institution": {
+          "name": "Kaggle",
+          "URL": "https://www.kaggle.com/learn/certification/jomordom/python",
+          "image": {
+            "alt": "kaggle.png",
+            "link": "https://media-asgard.s3.eu-west-1.amazonaws.com/22/03/30/f1cbed1e-cfc0-4430-a451-b89de1317172_kaggle.png"
+          }
+        },
+        "linkedCompetences": [
+          {
+            "name": "Python",
+            "type": "technology"
+          }
+        ]
+      },
+      {
+        "studyType": "certification",
+        "degreeAchieved": true,
+        "name": "Enterprise Design Thinking - Team Essentials for AI",
+        "startDate": "2020-11-01",
+        "finishDate": "2020-11-01",
+        "institution": {
+          "name": "IBM",
+          "URL": "https://www.credly.com/badges/4579d29f-9a91-452c-a657-bcba181ed6b3?source=linked_in_profile",
+          "image": {
+            "alt": "ibm.png",
+            "link": "https://media-asgard.s3.eu-west-1.amazonaws.com/22/03/30/e61c5d31-c3d5-4be6-9168-ff263252b534_ibm.png"
+          }
+        }
+      },
+      {
+        "studyType": "certification",
+        "degreeAchieved": true,
         "name": "Los fundamentos del marco Agile ",
         "startDate": "2020-11-01",
         "finishDate": "2020-11-01",
         "institution": {
           "name": "Santander",
-          "description": "",
           "URL": "https://www.credly.com/badges/0bbee57a-fe2e-462b-ac4e-d826d7fbddcf?source=linked_in_profile",
           "image": {
             "alt": "santander-1635327050698.jpeg",
             "link": "https://media-asgard.s3.eu-west-1.amazonaws.com/22/03/30/056c826a-d502-469b-bf4c-f4c91bbfa6bf_santander-1635327050.jpeg"
           }
         }
+      },
+      {
+        "studyType": "unaccredited",
+        "degreeAchieved": true,
+        "name": "Enterprise Microservices Java Development",
+        "startDate": "2020-05-01",
+        "finishDate": "2020-09-01",
+        "institution": {
+          "name": "Ironhack",
+          "URL": "https://www.credential.net/32056dfc-477b-4fc5-a03a-9f2c863f7ac7#gs.v72y1f",
+          "image": {
+            "alt": "logo ironhack_20170522100051_20170626142433.png",
+            "link": "https://media-asgard.s3.eu-west-1.amazonaws.com/22/03/30/a48da532-9129-4a14-85bc-9ca1ddeaecb8_logo-ironhack_201705.png"
+          }
+        },
+        "linkedCompetences": [
+          {
+            "name": "AWS",
+            "type": "technology"
+          },
+          {
+            "name": "Angular2+",
+            "type": "technology"
+          },
+          {
+            "name": "Heroku",
+            "type": "technology"
+          },
+          {
+            "name": "JAVA",
+            "type": "technology"
+          },
+          {
+            "name": "MongoDB",
+            "type": "technology"
+          },
+          {
+            "name": "SQL",
+            "type": "technology"
+          },
+          {
+            "name": "Spring Boot",
+            "type": "technology"
+          },
+          {
+            "name": "UML",
+            "type": "technology"
+          }
+        ]
       },
       {
         "studyType": "certification",
@@ -595,7 +677,6 @@
         "finishDate": "2020-03-01",
         "institution": {
           "name": "Google Cloud",
-          "description": "",
           "URL": "https://www.coursera.org/account/accomplishments/verify/AQDZL4DUL8ND",
           "image": {
             "alt": "gcloiud.png",
@@ -603,6 +684,10 @@
           }
         },
         "linkedCompetences": [
+          {
+            "name": "AJAX",
+            "type": "technology"
+          },
           {
             "name": "DialogFlow",
             "type": "technology"
@@ -614,9 +699,26 @@
           {
             "name": "JavaScript",
             "type": "technology"
-          },
+          }
+        ]
+      },
+      {
+        "studyType": "certification",
+        "degreeAchieved": true,
+        "name": "Getting started with AWS Machine Learning ",
+        "startDate": "2020-03-01",
+        "finishDate": "2020-03-01",
+        "institution": {
+          "name": "AWS ",
+          "URL": "https://www.coursera.org/account/accomplishments/certificate/2HX4NPG8X2DP",
+          "image": {
+            "alt": "aws.png",
+            "link": "https://media-asgard.s3.eu-west-1.amazonaws.com/22/03/30/f7ab31c6-63b9-4832-92de-9bfd89c0a6fa_aws.png"
+          }
+        },
+        "linkedCompetences": [
           {
-            "name": "AJAX",
+            "name": "AWS",
             "type": "technology"
           }
         ]
@@ -629,7 +731,6 @@
         "finishDate": "2020-03-01",
         "institution": {
           "name": "University of Helsinki",
-          "description": "",
           "URL": "https://certificates.mooc.fi/validate/heaiy083qmq",
           "image": {
             "alt": "university-of-helsinki-logo-vector.png",
@@ -648,28 +749,6 @@
         ]
       },
       {
-        "studyType": "certification",
-        "degreeAchieved": true,
-        "name": "Getting started with AWS Machine Learning ",
-        "startDate": "2020-03-01",
-        "finishDate": "2020-03-01",
-        "institution": {
-          "name": "AWS ",
-          "description": "",
-          "URL": "https://www.coursera.org/account/accomplishments/certificate/2HX4NPG8X2DP",
-          "image": {
-            "alt": "aws.png",
-            "link": "https://media-asgard.s3.eu-west-1.amazonaws.com/22/03/30/f7ab31c6-63b9-4832-92de-9bfd89c0a6fa_aws.png"
-          }
-        },
-        "linkedCompetences": [
-          {
-            "name": "AWS",
-            "type": "technology"
-          }
-        ]
-      },
-      {
         "studyType": "unaccredited",
         "degreeAchieved": true,
         "name": "Full Stack & Mobile Development Bootcamp",
@@ -677,7 +756,6 @@
         "finishDate": "2019-09-01",
         "institution": {
           "name": "Codenotch ",
-          "description": "",
           "URL": "https://www.codenotch.com/",
           "image": {
             "alt": "codenotch-download.png",
@@ -690,19 +768,7 @@
             "type": "technology"
           },
           {
-            "name": "TypeScript",
-            "type": "technology"
-          },
-          {
-            "name": "NoSQL",
-            "type": "technology"
-          },
-          {
-            "name": "SQL",
-            "type": "technology"
-          },
-          {
-            "name": "PHPMyAdmin",
+            "name": "JavaScript",
             "type": "technology"
           },
           {
@@ -714,79 +780,15 @@
             "type": "technology"
           },
           {
+            "name": "NoSQL",
+            "type": "technology"
+          },
+          {
             "name": "NodeJS",
             "type": "technology"
           },
           {
-            "name": "JavaScript",
-            "type": "technology"
-          }
-        ]
-      },
-      {
-        "studyType": "unaccredited",
-        "degreeAchieved": true,
-        "name": "PDPM+ ",
-        "startDate": "2022-03-01",
-        "finishDate": "2022-07-01",
-        "institution": {
-          "name": "The Valley Business School",
-          "description": "Program in Digital Product Management ",
-          "URL": "https://thevalley.es/",
-          "image": {
-            "alt": "thevalley - logo.png",
-            "link": "https://media-asgard.s3.eu-west-1.amazonaws.com/22/03/30/c6a85f1e-89af-4bc2-bf3b-fd7ccbd6c442_thevalley---logo.png"
-          }
-        },
-        "linkedCompetences": [
-          {
-            "name": "Jira",
-            "type": "technology"
-          },
-          {
-            "name": "Figma",
-            "type": "technology"
-          },
-          {
-            "name": "Invision",
-            "type": "technology"
-          },
-          {
-            "name": "Google Analytics",
-            "type": "technology"
-          },
-          {
-            "name": "Power BI",
-            "type": "technology"
-          }
-        ]
-      },
-      {
-        "studyType": "unaccredited",
-        "degreeAchieved": true,
-        "name": "Enterprise Microservices Java Development",
-        "startDate": "2020-05-01",
-        "finishDate": "2020-09-01",
-        "institution": {
-          "name": "Ironhack",
-          "description": "",
-          "URL": "https://www.credential.net/32056dfc-477b-4fc5-a03a-9f2c863f7ac7#gs.v72y1f",
-          "image": {
-            "alt": "logo ironhack_20170522100051_20170626142433.png",
-            "link": "https://media-asgard.s3.eu-west-1.amazonaws.com/22/03/30/a48da532-9129-4a14-85bc-9ca1ddeaecb8_logo-ironhack_201705.png"
-          }
-        },
-        "linkedCompetences": [
-          {
-            "name": "JAVA",
-            "type": "technology"
-          },
-          {
-            "name": "Spring Boot",
-            "type": "technology"
-          },
-          {
-            "name": "Angular2+",
+            "name": "PHPMyAdmin",
             "type": "technology"
           },
           {
@@ -794,19 +796,7 @@
             "type": "technology"
           },
           {
-            "name": "MongoDB",
-            "type": "technology"
-          },
-          {
-            "name": "Heroku",
-            "type": "technology"
-          },
-          {
-            "name": "AWS",
-            "type": "technology"
-          },
-          {
-            "name": "UML",
+            "name": "TypeScript",
             "type": "technology"
           }
         ]
@@ -820,6 +810,15 @@
           "type": "linkedin",
           "URL": "https://www.linkedin.com/in/jomordom/"
         }
+      ]
+    },
+    "preferences": {
+      "preferredRoles": [
+        "Business Operations & Strategy",
+        "Product Analyst",
+        "Product Manager",
+        "Product Owner",
+        "Sales & Business Development"
       ]
     }
   }
