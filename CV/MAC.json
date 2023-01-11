@@ -1,7 +1,7 @@
 {
   "$schema": "https://raw.githubusercontent.com/getmanfred/mac/v0.3/schema/schema.json",
   "settings": {
-    "language": "ES",
+    "language": "EN",
     "MACVersion": "0.3"
   },
   "aboutMe": {
@@ -13,8 +13,7 @@
       "location": {
         "country": "España",
         "region": "Comunidad Valenciana",
-        "municipality": "Alicante (Alacant)",
-        "notes": "Autocompleted using Google Maps API"
+        "municipality": "Alicante (Alacant)"
       }
     },
     "relevantLinks": [
@@ -74,6 +73,39 @@
               {
                 "name": "TypeScript",
                 "type": "technology"
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "organization": {
+          "name": "Teamwork "
+        },
+        "roles": [
+          {
+            "name": "PM - Automation & Data Analytics",
+            "startDate": "2022-03-01",
+            "challenges": [
+              {
+                "description": " helped me get this job"
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "organization": {
+          "name": "Ironhack "
+        },
+        "roles": [
+          {
+            "name": "Teacher Assistant",
+            "startDate": "2022-06-01",
+            "finishDate": "2022-10-31",
+            "challenges": [
+              {
+                "description": "Teacher Assistant in Java Web & Microservices Development Bootcamp for ConforCat.\n\nProviding support to the Lead Teacher and Program Manager in 🎓:\n- Monitoring the development of students during the duration of the program.\n- Correction and evaluation of deliveries.\n- Teaching of sporadic classes or by specialization.\n- Monitoring and verification of compliance with KPIs."
               }
             ]
           }
@@ -165,6 +197,23 @@
       },
       {
         "organization": {
+          "name": "Santander Global T&O "
+        },
+        "roles": [
+          {
+            "name": "Technical Product Manager",
+            "startDate": "2020-09-01",
+            "finishDate": "2022-03-31",
+            "challenges": [
+              {
+                "description": "We are part of the global technology and operations team of Santander, one of the most important banking groups in Europe and America. We work so that Santander becomes the best open platform for financial digital services.\nOur team is formed by more than 2,000 people in 7 countries, developing and implementing financial solutions in different technologies such as Blockchain, Big Data or Angular, especially types of platforms, on-premise and cloud. We are the engine of the Santander digital transformation and we are convinced of the importance that technology has aligned to the needs of the business and that our work contributes value to users, people and communities, as well as that encourages the creativity of people . 💻\n\nAs Technical Product Manager at Santander I led and participated in the development and growth of multiple bespoke products and services such as internal management tools, markets and customer reporting, digital onboarding and more. Achieving success in e2e implementations going through the phases of discovery, research & validation, development and launch on a wide variety of cutting edge technologies and practices. ✅\n\nProduct vision, backlog management, communication with stakeholders and team enablement were a strong part of being able to accomplish all the goals along the way and have significant impact in 📈:\n- Technical debt reduced by 30% over 1 year.\n- Internal NPS increased two points over benchmark.\n- ARR increased 100% across projects.\n- Employee satisfaction and retention increased."
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "organization": {
           "name": "Kairos Digital Solutions",
           "image": {
             "alt": "kairos-download.jpeg",
@@ -210,6 +259,108 @@
               {
                 "name": "Vue",
                 "type": "technology"
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "organization": {
+          "name": "Kairós Digital Solutions S.L. "
+        },
+        "roles": [
+          {
+            "name": "Technical Product Manager",
+            "startDate": "2019-11-01",
+            "finishDate": "2020-06-30",
+            "challenges": [
+              {
+                "description": "Kairós DS is a leading Spanish multinational company in Business Agility, being a reference company in organizational change management projects and construction of solutions and value products in the field of digital transformation. 💻\n\nAs Technical Product Manager at KairosDS, I was able to add value to the company by leading the definition, development and implementation of a toolset for making internal processes more efficient and scalable. By understanding the scope and identifying key opportunities in talent attraction and retention as the company grew, improving the main website for global reach of the company services or finding win-win partnerships with other entities for R&D initiatives. ✅\n\nAll of which returned the following 📈: \n- Quality of hired profiles & retention rate increased by 50% over 6 months. \n- Bugs cost reduced by 46% over first 3 months. \n- Partnerships reported an increase on MRR of 21%."
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "organization": {
+          "name": "MOBEC Gestión de Residuos"
+        },
+        "roles": [
+          {
+            "name": "COO",
+            "startDate": "2018-02-01",
+            "finishDate": "2019-11-30",
+            "challenges": [
+              {
+                "description": "- Finance and logistics management. \n- Quality control and services mangement. \n- Marketing and sales management. \n- Human resources management. "
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "organization": {
+          "name": "mundoestudiante"
+        },
+        "roles": [
+          {
+            "name": "Executive Assistant ",
+            "startDate": "2017-06-01",
+            "finishDate": "2018-02-28",
+            "challenges": [
+              {
+                "description": "- Marketing and expansion planning and execution. \n- Finance and branches management. \n- Human resources and training management. \n"
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "organization": {
+          "name": "Grupo Vips"
+        },
+        "roles": [
+          {
+            "name": "Assistant General Manager in VipSmart and Ginos San Vicente",
+            "startDate": "2016-05-01",
+            "finishDate": "2017-02-28",
+            "challenges": [
+              {
+                "description": "- Financial, commercial and operations management. \n- Recruiting, training and human resources management. \n- Customer service and problem solving. "
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "organization": {
+          "name": "Rosewood London"
+        },
+        "roles": [
+          {
+            "name": "Bartender",
+            "startDate": "2014-01-01",
+            "finishDate": "2015-01-31",
+            "challenges": [
+              {
+                "description": "- High quality customer service. \n- Stock control.\n- High standard Food&Beverages training. "
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "organization": {
+          "name": "Subway"
+        },
+        "roles": [
+          {
+            "name": "Store manager",
+            "startDate": "2013-06-01",
+            "finishDate": "2014-01-31",
+            "challenges": [
+              {
+                "description": "- Corporate standards following and control. \n- Store manteniance and supervision. \n- Stock control and customer service."
               }
             ]
           }
@@ -274,24 +425,6 @@
     ]
   },
   "knowledge": {
-    "languages": [
-      {
-        "name": "English",
-        "level": "Limited working proficiency"
-      },
-      {
-        "name": "Italian",
-        "level": "Limited working proficiency"
-      },
-      {
-        "name": "Portuguese",
-        "level": "Limited working proficiency"
-      },
-      {
-        "name": "Spanish",
-        "level": "Limited working proficiency"
-      }
-    ],
     "hardSkills": [
       {
         "skill": {
@@ -810,15 +943,6 @@
           "type": "linkedin",
           "URL": "https://www.linkedin.com/in/jomordom/"
         }
-      ]
-    },
-    "preferences": {
-      "preferredRoles": [
-        "Business Operations & Strategy",
-        "Product Analyst",
-        "Product Manager",
-        "Product Owner",
-        "Sales & Business Development"
       ]
     }
   }
